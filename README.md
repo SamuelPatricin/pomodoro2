@@ -1,1 +1,3 @@
-# pomodoro2
+- integrantes:
+  - Kaio Sousa Almeida
+  - Samuel Patrício Barbosa Araújo
